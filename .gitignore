@@ -1,0 +1,6 @@
+make-no-dlcompatorsrp-tarball.sh
+saslauthd.sysconfig
+sasl-checkpass.c
+sasl-mechlist.c
+saslauthd.init
+cyrus-sasl-2.1.23-nodlcompatorsrp.tar.gz
